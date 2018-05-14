@@ -3,7 +3,7 @@ Projects completed as part of successfully completing the Udacity Machine Learni
 
 The jupyter notebooks demonstrate the following skills:
 
-# Supervised learning
+## Supervised learning
 finding_donors.ipynb covers a number of supervised learning techniques to find donors that meet certain criteria
 
 # Unsupervised learning 
